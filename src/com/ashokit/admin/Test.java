@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("Git Practice has started now onwards so be attentive");
 		
 		Student student=new Student();
-		student.setName("Sanjeev Kumar Singh");
+		student.setName("Sanjeev Kumar Singh  jkj");
 		System.out.println("Student Name: "+student.getName());
 	}
 }
